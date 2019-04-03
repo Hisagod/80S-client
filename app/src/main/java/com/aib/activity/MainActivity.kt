@@ -1,7 +1,8 @@
-package com.aib.ezs
+package com.aib.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.aib.ezs.R
 
 class MainActivity : AppCompatActivity() {
 
